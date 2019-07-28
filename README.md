@@ -1,4 +1,4 @@
-# electron webwiew packager
+# electron webview template
 
 You can build webview desctoop app more easily.
 
