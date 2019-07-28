@@ -21,7 +21,7 @@ Lets' edit config.json to be of practical use to you.
 }
 ```
 
-### 3. replace icon.json
+### 3. replace icon files
 You must replace ```icon.icns``` and ```icon.ico```.
 
 ### 4. build
