@@ -1,0 +1,35 @@
+{
+  "name": "electron-webview",
+  "author": "Archie (Akihisa Ochi)",
+  "version": "1.0.0",
+  "description": "This repository help making desctop webview app easier.",
+  "main": "./main.js",
+  "scripts": {
+    "start": "gulp start",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akihisaochi/electron-webvie.git"
+  },
+  "keywords": [
+    "electron",
+    "webview",
+    "desctop",
+    "app"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akihisaochi/electron-webvie/issues"
+  },
+  "homepage": "https://github.com/akihisaochi/electron-webvie#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^4.0.6",
+    "electron-connect": "^0.6.3",
+    "electron-packager": "^13.1.0",
+    "electron-winstaller": "^3.0.1",
+    "gulp": "^4.0.0",
+    "gulp-pug": "^4.0.1"
+  }
+}

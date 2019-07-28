@@ -1,0 +1,5 @@
+{
+  "APP_NAME": "webview-app",
+  "WEBVIEW_URL": "https://electronjs.org/",
+  "APP_VERSION": "1.0.0"
+}
