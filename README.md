@@ -1,11 +1,13 @@
 # electron webwiew packager
 
-electron webwiew packager
+You can build webview desctoop app more easily.
 
 ## how to build you own webview app
 
 ### 1. clone this repository
 ```
+git clone git@github.com:akihisaArchieSakai/electron-webview-template.git
+cd electron-webview-template
 npm i
 ```
 
@@ -20,7 +22,7 @@ Lets' edit config.json to be of practical use to you.
 ```
 
 ### 3. replace icon.json
-You must replace icon.icns and icon.ico.
+You must replace ```icon.icns``` and ```icon.ico```.
 
 ### 4. build
 type below command.
